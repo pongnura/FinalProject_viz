@@ -147,7 +147,7 @@ st.pyplot()
 
 # (Atomm Pie)
 st.markdown('##Software developer skills')
-img = Image.open("/app/FinalProject_viz/pie.jpg")
+img = Image.open("/FinalProject_viz/pie.jpg")
 st.image(img, width=700, caption="Software developer skills")
 
 
