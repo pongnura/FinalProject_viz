@@ -147,7 +147,7 @@ st.pyplot()
 
 # (Atomm Pie)
 st.markdown('##Software developer skills')
-img = Image.open("/Users/natty/Beam/pie.jpg")
+img = Image.open("/app/FinalProject_viz/pie.jpg")
 st.image(img, width=700, caption="Software developer skills")
 
 
@@ -248,7 +248,7 @@ st.write(compare_location.plot_bokeh.map(
 
 #3 
 st.header('Transportation')
-img = Image.open("/Users/natty/Beam/map.jpg")
+img = Image.open("/app/FinalProject_viz/map.jpg")
 st.image(img, width=700, caption="Transportation")
 
 
